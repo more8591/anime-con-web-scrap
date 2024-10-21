@@ -97,7 +97,3 @@ Follow the steps below to set up and run the project:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` covers all aspects of your project: what it does, how to install and run it, and what each of the dependencies is for. You can adjust the repository URL and license section if needed.
