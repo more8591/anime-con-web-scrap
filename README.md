@@ -13,6 +13,11 @@ This project was inspired by an older one called [autoJobSearch_Project](https:/
 - Automatically injects jQuery for easier element selection.
 - Outputs the data into a CSV file stored in the `/exported_csv/` directory.
 
+### Work In Progress Features!
+- Going to implement [Google Drive API](https://developers.google.com/drive/api/guides/about-files) so I can save the file on the cloud instead of locally
+- Implement [Google Maps API](https://developers.google.com/maps/documentation) with "Location" data extracted to one-click get directions to convention
+- Collect each convention website data (Contact Email, Phone, Website Link etc.)
+
 ## Dependencies
 
 This project relies on the following Node.js modules:
